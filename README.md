@@ -28,6 +28,14 @@ To Start the application, type
 ```bash
 python manage.py runserver
 ```
+To run the andoird app, open it in android studio:
+```
+flutter pub get
+```
+To run the app:
+```
+flutter run
+```
 ## 📚 Features 
 
 - ### Dashboard
